@@ -44,6 +44,7 @@ else:
 
 print ("Target : " + target)
 print ("Filter : " + filter)
+print ("Clspath : " + clspath)
 
 #
 # we'll use the version of java that the user has as default.
